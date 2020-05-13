@@ -1,4 +1,4 @@
-# Getting and cleaning data wee 4 project #
+# Getting and cleaning data assigment week 4 #
 
 ## Workflow ##
 
