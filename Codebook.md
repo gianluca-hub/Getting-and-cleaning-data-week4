@@ -1,7 +1,4 @@
----
-title: "Getting and cleaning data week 4 project"
-output: html_document
----
+# Getting and cleaning data wee 4 project #
 
 ## Workflow ##
 
