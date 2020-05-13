@@ -65,12 +65,3 @@ output: html_document
 
 
 
-
-
-
-
-
-
-
-
-               
